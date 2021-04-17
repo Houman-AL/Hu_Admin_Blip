@@ -8,3 +8,5 @@ Made By Houman#7172
 This Script Can Show Admin In The Map When Admin Use Command
 
 Default Command : 'toggleadmin'
+
+Video : https://youtu.be/Wf4fzclQt98
