@@ -9,4 +9,4 @@ This Script Can Show Admin In The Map When Admin Use Command
 
 Default Command : 'toggleadmin'
 
-Video : https://youtu.be/Wf4fzclQt98
+Video : https://youtu.be/Wf4fzclQt98 (DELE_GARDEN)
